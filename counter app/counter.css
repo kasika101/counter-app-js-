@@ -1,0 +1,33 @@
+#txt{
+    color: rgb(110, 110, 109);
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    font-size: 70px;
+    background-color: aqua;
+
+}
+#add{
+    height: 30px;
+    width: 50px;
+    border-radius: 30px;
+    color: chartreuse;
+    background-color: green;
+    border-color: red;
+}
+#reset{
+    height: 30px;
+    width: 50px;
+    border-radius: 30px;
+    color: rgb(224, 245, 204);
+    background-color: rgb(11, 78, 11);
+    border-color: rgb(107, 103, 103);
+}
+#minus{
+    height: 30px;
+    width: 50px;
+    border-radius: 30px;
+    color: rgb(107, 5, 5);
+    background-color: rgb(226, 65, 65);
+    border-color: rgb(70, 201, 65);
+}
